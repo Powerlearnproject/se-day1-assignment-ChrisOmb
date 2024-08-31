@@ -45,7 +45,7 @@ intergrated testing testing interaction between different components
 system testing - testin4g system as a whole
 acceptance - testing against the user requirements to ensure it meets user needs.
 
-#Part 2: Introduction to AI and Prompt Engineering
+#Part 2:  Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
